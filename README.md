@@ -1,1 +1,1 @@
-# TDU-syllabus-api
+# TDU Syllabus API
